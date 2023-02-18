@@ -64,13 +64,13 @@ body {
 
 /* Remove text-shadow in selection highlight. */
 ::-moz-selection {
-    background: #FA9A00;
+    background: #2e3193;
     color: #FFFFFF;
     text-shadow: none;
 }
 
 ::selection {
-    background: #FA9A00;
+    background: #2e3193;
     color: #FFFFFF;
     text-shadow: none;
 }
@@ -140,7 +140,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #FA9A00;
+    color: #2e3193;
     outline: none;
     text-decoration: none;
 }
@@ -289,11 +289,11 @@ button:focus {
 02. Color CSS
 ============================*/
 .primary-color {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .bg-brand {
-    background-color: #FA9A00 !important;
+    background-color: #2e3193 !important;
 }
 
 /*============================
@@ -341,7 +341,7 @@ button:focus {
 }
 
 .btn-brand {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     color: #FFFFFF;
 }
 
@@ -356,18 +356,18 @@ button:focus {
 }
 
 .btn-bordered:hover {
-    background-color: #FA9A00;
-    border-color: #FA9A00;
+    background-color: #2e3193;
+    border-color: #2e3193;
 }
 
 .btn-transparent {
-    border: 1px solid #FA9A00;
-    color: #FA9A00;
+    border: 1px solid #2e3193;
+    color: #2e3193;
 }
 
 .btn-transparent:hover {
-    background-color: #FA9A00;
-    border-color: #FA9A00;
+    background-color: #2e3193;
+    border-color: #2e3193;
 }
 
 .btn-black {
@@ -376,7 +376,7 @@ button:focus {
 }
 
 .btn-black:hover {
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 .btn-close {
@@ -390,11 +390,11 @@ button:focus {
 }
 
 .btn-close:hover {
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 .btn-read-more {
-    color: #FA9A00;
+    color: #2e3193;
     font-weight: 600;
     position: relative;
     display: inline-block;
@@ -407,7 +407,7 @@ button:focus {
 
 .btn-read-more:after,
 .btn-read-more:before {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     content: '';
     position: absolute;
     left: 0;
@@ -541,7 +541,7 @@ button:focus {
 
 .slick-slider .slick-dots li:hover,
 .slick-slider .slick-dots li.slick-active {
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 .slick-slider .slick-dots li button {
@@ -574,7 +574,7 @@ button:focus {
 }
 
 .ht-slick-arrows button:hover {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     color: #FFFFFF;
 }
 
@@ -1214,7 +1214,7 @@ button:focus {
 .list-unordered li:before {
     content: '\f058';
     font-family: "FontAwesome";
-    color: #FA9A00;
+    color: #2e3193;
     vertical-align: middle;
     margin-right: 10px;
 }
@@ -1233,7 +1233,7 @@ button:focus {
 
 .mfp-wrap .mfp-arrow:before {
     color: #FFFFFF;
-    border: 1px solid #FA9A00;
+    border: 1px solid #2e3193;
     border-radius: 50%;
     font-family: "FontAwesome";
     font-size: 20px;
@@ -1264,12 +1264,12 @@ button:focus {
 }
 
 .mfp-wrap .mfp-arrow:hover:before {
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 .mfp-wrap .mfp-close {
     color: #FFFFFF;
-    border: 1px solid #FA9A00;
+    border: 1px solid #2e3193;
     border-radius: 50%;
     font-family: "FontAwesome";
     font-size: 20px;
@@ -1294,11 +1294,11 @@ button:focus {
 }
 
 .mfp-wrap .mfp-close:hover {
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 .mfp-wrap .mfp-bottom-bar {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     height: 30px;
     padding: 0 20px;
     margin-top: -40px;
@@ -1343,7 +1343,7 @@ button:focus {
 
 .form-input-item input:focus,
 .form-input-item textarea:focus {
-    border-color: #FA9A00;
+    border-color: #2e3193;
 }
 
 /*----------------------------------
@@ -1421,7 +1421,7 @@ button:focus {
 .custom-checkbox .custom-control-label a:hover,
 .custom-radio label a:hover,
 .custom-radio .custom-control-label a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .custom-checkbox input,
@@ -1452,8 +1452,8 @@ button:focus {
 .custom-radio input:checked label:before,
 .custom-radio .custom-control-input:checked ~ .custom-control-label:before,
 .custom-radio .custom-control-input:checked label:before {
-    background-color: #FA9A00;
-    border-color: #FA9A00;
+    background-color: #2e3193;
+    border-color: #2e3193;
 }
 
 .custom-radio label:before,
@@ -1514,7 +1514,7 @@ button:focus {
 }
 
 .pre-header-item i {
-    color: #FA9A00;
+    color: #2e3193;
     margin-right: 10px;
 }
 
@@ -1567,7 +1567,7 @@ button:focus {
 
 .action-buttons li a.btn-cart,
 .action-buttons li button.btn-cart {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     color: #FFFFFF;
 }
 
@@ -1726,7 +1726,7 @@ button:focus {
 }
 
 .info-item__icon {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     color: #FFFFFF;
     text-align: center;
     line-height: 40px;
@@ -2020,7 +2020,7 @@ button:focus {
 }
 
 .office-info p i {
-    color: #FA9A00;
+    color: #fff;
     vertical-align: middle;
     margin-right: 10px;
 }
@@ -2046,7 +2046,7 @@ button:focus {
 }
 
 .copyright-text a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 /*===========================
@@ -2082,7 +2082,7 @@ button:focus {
 .main-menu > li > a:after,
 .main-menu > li > a:before {
     content: '';
-    background-color: #FA9A00;
+    background-color: #2e3193;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -2103,12 +2103,12 @@ button:focus {
 
 .main-menu > li:hover:after,
 .main-menu > li.active:after {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .main-menu > li:hover > a,
 .main-menu > li.active > a {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .main-menu > li:hover > a:after,
@@ -2179,7 +2179,7 @@ button:focus {
 }
 
 .dropdown-navbar .dropdown-nav li a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .dropdown-navbar:hover .dropdown-nav {
@@ -2262,7 +2262,7 @@ button:focus {
 }
 
 .res-mobile-menu .slicknav_nav .slicknav_open > .slicknav_item .slicknav_arrow {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     color: #FFFFFF;
 }
 
@@ -2436,7 +2436,7 @@ button:focus {
 }
 
 .service-item__thumb .read-more:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .service-item__thumb .btn-link-icon {
@@ -2453,7 +2453,7 @@ button:focus {
 }
 
 .service-item__thumb .btn-link-icon:hover {
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 .service-item__info h2 {
@@ -2551,7 +2551,7 @@ button:focus {
 }
 
 .service-item--three .service-item__icon {
-    color: #FA9A00;
+    color: #2e3193;
     font-size: 40px;
     line-height: 1;
     margin-bottom: 15px;
@@ -2706,7 +2706,7 @@ button:focus {
 .project-filter-menu li:after,
 .project-filter-menu li:before {
     content: '';
-    background-color: #FA9A00;
+    background-color: #2e3193;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -2787,7 +2787,7 @@ button:focus {
 }
 
 .project-item__info .btn-read-more:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .project-item__info .info-wrap {
@@ -2829,7 +2829,7 @@ button:focus {
 }
 
 .project-item--2 .project-item__thumb .project-hvr .btn-popup-img {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     border-radius: 50%;
     color: #FFFFFF;
     position: absolute;
@@ -2851,7 +2851,7 @@ button:focus {
 
 .project-item--2 .project-item__thumb .project-hvr .btn-popup-img:hover {
     background-color: #FFFFFF;
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .project-item--2 .project-item__info {
@@ -2869,7 +2869,7 @@ button:focus {
 }
 
 .project-item--2 .project-item__info a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .project-item--2 .project-item__info a.cate-name {
@@ -3034,7 +3034,7 @@ button:focus {
 }
 
 .discover-item__info h3 a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .discover-item__info h5 {
@@ -3142,7 +3142,7 @@ button:focus {
 }
 
 .history-item__info:before {
-    background: #fa9a00;
+    background: #2e3193;
     border-radius: 50%;
     border: 5px solid #eee;
     -webkit-box-sizing: content-box;
@@ -3165,7 +3165,7 @@ button:focus {
 }
 
 .history-item__info .history-title {
-    color: #FA9A00;
+    color: #2e3193;
     font-size: 18px;
     font-weight: 600;
     line-height: 1;
@@ -3195,7 +3195,7 @@ button:focus {
 
 .testimonial-area-wrapper .slick-slider .slick-dots li:hover,
 .testimonial-area-wrapper .slick-slider .slick-dots li.slick-active {
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 .testimonial-item__quote {
@@ -3244,7 +3244,7 @@ button:focus {
 }
 
 .testimonial-item__client__info h4 .client-title {
-    color: #FA9A00;
+    color: #2e3193;
     display: block;
     font-size: 15px;
     line-height: 1;
@@ -3352,7 +3352,7 @@ button:focus {
 
 .news-item__thumb-hvr .btn-zoom:hover {
     background-color: #FFFFFF;
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .news-item__info {
@@ -3385,7 +3385,7 @@ button:focus {
 }
 
 .news-item__info h2 a {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .news-item__info .post-meta {
@@ -3459,7 +3459,7 @@ button:focus {
 }
 
 .news-item--list .news-item__info h2 a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .news-item--list .news-item__info .post-meta a {
@@ -3540,9 +3540,9 @@ button:focus {
     display: none;
 }
 .accordion .accordion-button[aria-expanded*="true"] {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     color: #FFFFFF;
-    border-bottom-color: #FA9A00;
+    border-bottom-color: #2e3193;
 }
 .accordion .accordion-button:not(.collapsed) {
     box-shadow: none;
@@ -3668,7 +3668,7 @@ Team Member Style CSS
 }
 
 .team-member__info .designation {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .team-member__info .team-desc {
@@ -3741,7 +3741,7 @@ Team Member Style CSS
 }
 
 .counter-item__icon {
-    color: #FA9A00;
+    color: #2e3193;
     font-size: 40px;
     line-height: 1;
 }
@@ -3777,11 +3777,13 @@ Team Member Style CSS
 17. Page Header Style CSS
 ============================*/
 .page-header-area {
-    background: #ddd url("../img/extra/page-title-bg.jpg") no-repeat center center;
+    /* background: #ddd url("../img/extra/page-title-bg.jpg") no-repeat center center;
+    isolation: isolate; */
     background-size: cover;
+    background-color: #2e3193;
     position: relative;
-    padding: 90px 0;
-    isolation: isolate;
+    padding: 50px 0;
+   
 }
 
 @media only screen and (max-width: 767.98px) {
@@ -3854,7 +3856,7 @@ Team Member Style CSS
 }
 
 .breadcrumb li a {
-    color: #FA9A00;
+    color: #2e3193;
     display: inline-block;
     font-weight: 600;
 }
@@ -3903,8 +3905,8 @@ Team Member Style CSS
 
 .pagination li a:hover,
 .pagination li a.current {
-    background-color: #FA9A00;
-    border-color: #FA9A00;
+    background-color: #2e3193;
+    border-color: #2e3193;
     color: #FFFFFF;
 }
 
@@ -3956,8 +3958,8 @@ Team Member Style CSS
 }
 
 .project-desc .view-project:hover {
-    background-color: #FA9A00;
-    border-color: #FA9A00;
+    background-color: #2e3193;
+    border-color: #2e3193;
     color: #FFFFFF;
 }
 
@@ -3988,7 +3990,7 @@ Team Member Style CSS
 }
 
 .project-pagination li a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .project-pagination-wrap {
@@ -4024,7 +4026,7 @@ Team Member Style CSS
 
 .project-details-thumb .slick-dots li:hover,
 .project-details-thumb .slick-dots li.slick-active {
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 /*=========================
@@ -4059,7 +4061,7 @@ Team Member Style CSS
 }
 
 .sidebar-title:after {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     content: '';
     position: absolute;
     left: 0;
@@ -4089,7 +4091,7 @@ Team Member Style CSS
 }
 
 .sidebar-list li a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .recent-news-item {
@@ -4136,7 +4138,7 @@ Team Member Style CSS
 }
 
 .recent-news-item__info h3 a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .recent-news-item__info .post-date {
@@ -4174,8 +4176,8 @@ Team Member Style CSS
 }
 
 .tags li a:hover {
-    color: #FA9A00;
-    border-color: #FA9A00;
+    color: #2e3193;
+    border-color: #2e3193;
 }
 
 .src-from-content input {
@@ -4191,7 +4193,7 @@ Team Member Style CSS
 }
 
 .src-from-content .btn-search {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     color: #FFFFFF;
     max-width: 60px;
     -webkit-flex-basis: 60px;
@@ -4213,12 +4215,12 @@ Team Member Style CSS
 }
 
 .price-range-wrap .price-range.ui-widget-content .ui-slider-range {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     border-radius: 0;
 }
 
 .price-range-wrap .price-range.ui-widget-content .ui-slider-handle {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     border: 5px solid #dddddd;
     border-radius: 50%;
     height: 20px;
@@ -4282,7 +4284,7 @@ Team Member Style CSS
 }
 
 .single-recent-view-prod .prod-info h3 a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .single-recent-view-prod .prod-info .rating {
@@ -4350,11 +4352,11 @@ Team Member Style CSS
 }
 
 .single-product-wrap .product-thumb .btn-quick-view:hover {
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 .single-product-wrap .product-thumb .btn-add-cart {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     color: #FFFFFF;
     display: block;
     font-size: 13px;
@@ -4392,7 +4394,7 @@ Team Member Style CSS
 }
 
 .single-product-wrap .product-details .product-title a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .single-product-wrap .product-details .price-group {
@@ -4553,8 +4555,8 @@ Team Member Style CSS
 }
 
 .project-desc .view-project:hover {
-    background-color: #FA9A00;
-    border-color: #FA9A00;
+    background-color: #2e3193;
+    border-color: #2e3193;
     color: #FFFFFF;
 }
 
@@ -4585,7 +4587,7 @@ Team Member Style CSS
 }
 
 .project-pagination li a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .project-pagination-wrap {
@@ -4621,7 +4623,7 @@ Team Member Style CSS
 
 .project-details-thumb .slick-dots li:hover,
 .project-details-thumb .slick-dots li.slick-active {
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 /*=============================
@@ -4667,7 +4669,7 @@ Team Member Style CSS
 }
 
 .blog-meta a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .blog-share {
@@ -4692,7 +4694,7 @@ Team Member Style CSS
 }
 
 .blog-share h4 i {
-    color: #fa9a00;
+    color: #2e3193;
     margin-right: 5px;
     vertical-align: middle;
     margin-top: -2px;
@@ -4706,7 +4708,7 @@ Team Member Style CSS
 }
 
 .blog-share a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 blockquote,
@@ -4733,7 +4735,7 @@ blockquote:after,
 
 blockquote:before,
 .blockquote:before {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     content: '';
     position: absolute;
     left: 0;
@@ -4814,7 +4816,7 @@ Start Comment Area Wrapper
 }
 
 .single-comment-wrap .comment-footer a.btn-reply:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 /*=========================
@@ -4974,7 +4976,7 @@ Start Comment Area Wrapper
 
 .config-item .config-list li.active,
 .config-item .config-list li:hover {
-    border-color: #FA9A00;
+    border-color: #2e3193;
     color: #222222;
     font-weight: 600;
 }
@@ -5045,7 +5047,7 @@ Start Comment Area Wrapper
 }
 
 .prod-details-footer__item .cate-list li a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .prod-details-footer__item .share-item a {
@@ -5058,7 +5060,7 @@ Start Comment Area Wrapper
 }
 
 .prod-details-footer__item .share-item a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .product-description-review #myTabContent {
@@ -5094,7 +5096,7 @@ Start Comment Area Wrapper
 }
 
 .product-description-review .desc-review-tab-menu li button.active {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     color: #FFFFFF;
 }
 
@@ -5245,7 +5247,7 @@ Start Comment Area Wrapper
 }
 
 .product-rating-wrap .rating-form input:focus {
-    border-color: #FA9A00;
+    border-color: #2e3193;
 }
 
 .product-rating-wrap .rating-form textarea {
@@ -5263,7 +5265,7 @@ Start Comment Area Wrapper
 }
 
 .product-rating-wrap .rating-form textarea:focus {
-    border-color: #FA9A00;
+    border-color: #2e3193;
 }
 
 .product-rating-wrap .rating-form .btn {
@@ -5298,7 +5300,7 @@ Start Comment Area Wrapper
 }
 
 .pro-qty a:hover {
-    background-color: #FA9A00;
+    background-color: #2e3193;
     color: #FFFFFF;
 }
 
@@ -5346,7 +5348,7 @@ Start Comment Area Wrapper
 }
 
 .shopping-cart-table .product-list .remove-icon button:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .shopping-cart-table .product-list .product-thumb {
@@ -5361,7 +5363,7 @@ Start Comment Area Wrapper
 }
 
 .shopping-cart-table .product-list .product-name:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .shopping-cart-table .pro-qty {
@@ -5390,7 +5392,7 @@ Start Comment Area Wrapper
 }
 
 .cart-coupon-update-area button:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .cart-coupon-update-area .coupon-form-wrap {
@@ -5420,7 +5422,7 @@ Start Comment Area Wrapper
 }
 
 .cart-coupon-update-area .coupon-form-wrap form input:focus {
-    border-color: #FA9A00;
+    border-color: #2e3193;
 }
 
 .cart-coupon-update-area .coupon-form-wrap form .btn-apply {
@@ -5499,7 +5501,7 @@ Start Comment Area Wrapper
 .list::-webkit-scrollbar-thumb {
     border-radius: 0;
     border: 0;
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 .table-responsive::-webkit-scrollbar,
@@ -5546,7 +5548,7 @@ Start Comment Area Wrapper
 }
 
 .checkout-page-coupon-area .card h3 span:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .checkout-page-coupon-area .card .card-body {
@@ -5563,7 +5565,7 @@ Start Comment Area Wrapper
 }
 
 .checkout-page-coupon-area .card .card-body .apply-coupon-wrapper input:focus {
-    border-color: #FA9A00;
+    border-color: #2e3193;
 }
 
 .checkout-page-coupon-area .card .card-body .apply-coupon-wrapper button.btn {
@@ -5649,7 +5651,7 @@ Start Comment Area Wrapper
 
 .single-input-item input:focus,
 .single-input-item textarea:focus {
-    border-color: #FA9A00;
+    border-color: #2e3193;
 }
 
 .single-input-item .nice-select {
@@ -5768,7 +5770,7 @@ Start Comment Area Wrapper
 
 .order-details-area-wrap .order-details-table .table tfoot .shipping .shipping-method li .custom-radio .custom-control-input:checked ~ .custom-control-label:before,
 .order-details-area-wrap .order-details-table .table tfoot .shipping .shipping-method li .custom-radio .custom-control-input:checked label:before {
-    background-color: #FA9A00;
+    background-color: #2e3193;
 }
 
 .order-details-area-wrap .order-details-table .table tfoot .total-amount {
@@ -5829,7 +5831,7 @@ Start Comment Area Wrapper
 
 .social-icons a:after {
     content: '';
-    background-color: #FA9A00;
+    background-color: #2e3193;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -5842,7 +5844,7 @@ Start Comment Area Wrapper
 
 .social-icons a:before {
     content: '';
-    background-color: #FA9A00;
+    background-color: #2e3193;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -5858,7 +5860,7 @@ Start Comment Area Wrapper
 }
 
 .social-icons a:hover {
-    color: #FA9A00;
+    color: #2e3193;
 }
 
 .social-icons a:hover:after {
@@ -6041,8 +6043,8 @@ Start Comment Area Wrapper
 }
 
 #slide-1-layer-8 {
-    background-color: #fa9a00;
-    border: 2px solid #fa9a00;
+    background-color: #2e3193;
+    border: 2px solid #2e3193;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     -webkit-box-shadow: none;
@@ -6066,7 +6068,7 @@ Start Comment Area Wrapper
     font-size: 80px;
     line-height: 90px;
     font-weight: 900;
-    color: #fa9a00;
+    color: #2e3193;
     letter-spacing: -0.04em;
 }
 
@@ -6115,7 +6117,7 @@ Start Comment Area Wrapper
     font-size: 80px;
     line-height: 90px;
     font-weight: 900;
-    color: #fa9a00;
+    color: #2e3193;
     letter-spacing: -0.04em;
 }
 
@@ -6148,8 +6150,8 @@ Start Comment Area Wrapper
     line-height: 16px;
     font-weight: 700;
     color: white;
-    background-color: #fa9a00;
-    border: 2px solid #fa9a00;
+    background-color: #2e3193;
+    border: 2px solid #2e3193;
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -6226,7 +6228,7 @@ Start Comment Area Wrapper
     font-size: 80px;
     line-height: 90px;
     font-weight: 900;
-    color: #fa9a00;
+    color: #2e3193;
     letter-spacing: -0.04em;
 }
 
@@ -6273,7 +6275,7 @@ Start Comment Area Wrapper
     font-size: 80px;
     line-height: 90px;
     font-weight: 900;
-    color: #fa9a00;
+    color: #2e3193;
     letter-spacing: -0.04em;
     cursor: pointer;
 }
@@ -6298,8 +6300,8 @@ Start Comment Area Wrapper
     line-height: 16px;
     font-weight: 700;
     color: white;
-    background-color: #fa9a00;
-    border: 2px solid #fa9a00;
+    background-color: #2e3193;
+    border: 2px solid #2e3193;
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -6390,7 +6392,7 @@ Start Comment Area Wrapper
     line-height: 80px;
     font-weight: 900;
     color: #333333;
-    background-color: #fa9a00;
+    background-color: #2e3193;
     letter-spacing: -0.04em;
     cursor: pointer;
 }
@@ -6442,7 +6444,7 @@ Start Comment Area Wrapper
     font-size: 80px;
     line-height: 90px;
     font-weight: 900;
-    color: #fa9a00;
+    color: #2e3193;
     letter-spacing: -0.04em;
 }
 
@@ -6655,8 +6657,8 @@ Start Comment Area Wrapper
     line-height: 16px;
     font-weight: 700;
     color: white;
-    background-color: #fa9a00;
-    border: 2px solid #fa9a00;
+    background-color: #2e3193;
+    border: 2px solid #2e3193;
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -6714,8 +6716,8 @@ Start Comment Area Wrapper
     line-height: 16px;
     font-weight: 700;
     color: white;
-    background-color: #fa9a00;
-    border: 2px solid #fa9a00;
+    background-color: #2e3193;
+    border: 2px solid #2e3193;
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -6773,8 +6775,8 @@ Start Comment Area Wrapper
     line-height: 16px;
     font-weight: 700;
     color: white;
-    background-color: #fa9a00;
-    border: 2px solid #fa9a00;
+    background-color: #2e3193;
+    border: 2px solid #2e3193;
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -6792,8 +6794,8 @@ Start Comment Area Wrapper
 }
 
 .form-check-input:checked{
-    background-color: #FA9A00;
-    border-color: #FA9A00;
+    background-color: #2e3193;
+    border-color: #2e3193;
 }
 .form-check-input:focus {
     box-shadow: none;

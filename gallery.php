@@ -6,7 +6,7 @@
         <div class="row align-items-center">
             <div class="col-md-8 col-lg-8">
                 <div class="page-header-title text-center text-md-start">
-                    <h1>Our Projects</h1>
+                    <h1>Our Gallery</h1>
                 </div>
             </div>
 
@@ -14,7 +14,7 @@
                 <nav class="page-header-breadcrumb text-center text-md-end">
                     <ul class="breadcrumb">
                         <li><a href="index.html">Home</a></li>
-                        <li class="active"><a href="index.html">Projects</a></li>
+                        <li class="active"><a href="index.html">Gallery</a></li>
                     </ul>
                 </nav>
             </div>

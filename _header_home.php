@@ -26,7 +26,9 @@
     <link href="assets/css/font-awesome.min.css" rel="stylesheet"/>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
     <!--== Main Style CSS ==-->
+    <link href="assets/css/custom.css" rel="stylesheet"/>
     <link href="assets/css/style.css" rel="stylesheet"/>
+ 
 
     <!--[if lt IE 9]>
     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -90,15 +92,16 @@
                         <ul class="main-menu nav">
                             <li class=""><a href="index.php">Home</a></li>
                             <li class=""><a href="about.php">About Us</a></li>      
-                            <li class="dropdown-navbar"><a href="project.php">Projects</a> 
+                            <!-- <li class="dropdown-navbar"><a href="project.php">Projects</a> 
                                 <ul class="dropdown-nav">
                                     <li><a href="pproject-details.php">Project Title</a></li>
                                     <li><a href="pproject-details.php">Project Title</a></li>
                                     <li><a href="pproject-details.php">Project Title</a></li>
                                     <li><a href="pproject-details.php">Project Title</a></li>
                                 </ul>
-                            </li>
-                            <li class="dropdown-navbar"><a href="services.php">Products</a>
+                            </li> -->
+                            <li class=""><a href="project.php">Projects</a> </li>
+                            <li class="dropdown-navbar d-none"><a href="services.php">Products</a>
                                 <ul class="dropdown-nav">
                                     <li><a href="product-details.php">Product Title</a></li>
                                     <li><a href="product-details.php">Product Title</a></li>
@@ -108,9 +111,10 @@
                                     
                                 </ul>
                             </li>
-                            <li class=""><a href="contact.php">Clients</a>
-                            <li class=""><a href="contact.php">Contact</a>
-                            </li>
+                            <li class=""><a href="">Terms and Condition</a></li>
+                            <li class=""><a href="">Privacy Policy</a></li>
+                            <li class=""><a href="gallery.php">Gallery</a></li>
+                         
                            
                         </ul>
                     </nav>
@@ -123,7 +127,7 @@
                             <li class="d-lg-none">
                                 <button class="btn-canvas-open"><i class="pe-7s-menu"></i></button>
                             </li>
-                            <li><a href="" class="btn-cart">Get a Quote</a></li>
+                            <li><a href="contact.php" class="btn-cart">Contact</a></li>
                             <li class="d-none">
                                 <a href="#" class="btn-search">
                                     <i class="pe-7s-search"></i>

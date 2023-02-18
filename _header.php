@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-    <title> <title>Energy Link Power Limited</title></title>
+    <title> Energy Link Power Limited</title>
 
     <!--== Favicon ==-->
     <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon"/>
@@ -28,6 +28,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
     <!--== Main Style CSS ==-->
     <link href="assets/css/style.css" rel="stylesheet"/>
+    <link href="assets/css/custom.css" rel="stylesheet"/>
 
     <!--[if lt IE 9]>
     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -46,7 +47,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-8 col-xl-6 offset-xl-2 d-none d-sm-block">
                     <div class="pre-header-left d-sm-flex justify-content-center justify-content-lg-start">
-                        <div class="pre-header-item">
+                        <div class="pre-header-item" style="margin-left: 150px;">
                         <a href="tel:+8801712 340066"><i class="fa fa-phone"></i> +8801712 340066</a>
                         </div>
 
@@ -92,15 +93,16 @@
                         <ul class="main-menu nav">
                             <li class=""><a href="index.php">Home</a></li>
                             <li class=""><a href="about.php">About Us</a></li>      
-                            <li class="dropdown-navbar"><a href="project.php">Projects</a> 
+                            <!-- <li class="dropdown-navbar"><a href="project.php">Projects</a> 
                                 <ul class="dropdown-nav">
-                                    <li><a href="project-details.php">Project Title</a></li>
-                                    <li><a href="project-details.php">Project Title</a></li>
-                                    <li><a href="project-details.php">Project Title</a></li>
-                                    <li><a href="project-details.php">Project Title</a></li>
+                                    <li><a href="pproject-details.php">Project Title</a></li>
+                                    <li><a href="pproject-details.php">Project Title</a></li>
+                                    <li><a href="pproject-details.php">Project Title</a></li>
+                                    <li><a href="pproject-details.php">Project Title</a></li>
                                 </ul>
-                            </li>
-                            <li class="dropdown-navbar"><a href="services.php">Products</a>
+                            </li> -->
+                            <li class=""><a href="project.php">Projects</a> </li>
+                            <li class="dropdown-navbar d-none"><a href="services.php">Products</a>
                                 <ul class="dropdown-nav">
                                     <li><a href="product-details.php">Product Title</a></li>
                                     <li><a href="product-details.php">Product Title</a></li>
@@ -110,9 +112,10 @@
                                     
                                 </ul>
                             </li>
-                            <li class=""><a href="contact.php">Clients</a>
-                            <li class=""><a href="contact.php">Contact</a>
-                            </li>
+                            <li class=""><a href="">Terms and Condition</a></li>
+                            <li class=""><a href="">Privacy Policy</a></li>
+                            <li class=""><a href="gallery.php">Gallery</a></li>
+                           
                            
                         </ul>
                     </nav>
@@ -126,7 +129,7 @@
                             <li class="d-lg-none">
                                 <button class="btn-canvas-open"><i class="pe-7s-menu"></i></button>
                             </li>
-                            <li><a href="" class="btn-cart">Get a Quote</a></li>
+                            <li><a href="contact.php" class="btn-cart" style="background-color: #2e3193">Contact</a></li>
                             <li class="d-none">
                                 <a href="#" class="btn-search">
                                     <i class="pe-7s-search"></i>

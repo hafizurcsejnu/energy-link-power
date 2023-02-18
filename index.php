@@ -543,9 +543,9 @@ Instrumentation Works
                                     <img src="assets/img/project/project-h1-01.jpg" alt="Project"/>
                                     <figcaption class="project-item__info hvr-dir">
                                         <div class="info-wrap">
-                                            <a href="#" class="cate-name">Art</a>
-                                            <h3><a href="project-details.html">The Shard In London</a></h3>
-                                            <a href="project-details.html" class="btn btn-read-more">Read More</a>
+                                            <a href="#" class="cate-name"></a>
+                                            <h3><a href="#"></a></h3>
+                                            <a href="#" class="btn btn-read-more">Read More</a>
                                         </div>
                                     </figcaption>
                                 </figure>
@@ -560,9 +560,9 @@ Instrumentation Works
                                     <img src="assets/img/project/project-ft-11.jpg" alt="Project"/>
                                     <figcaption class="project-item__info hvr-dir">
                                         <div class="info-wrap">
-                                            <a href="#" class="cate-name">Art</a>
-                                            <h3><a href="project-details.html">The Shard In London</a></h3>
-                                            <a href="project-details.html" class="btn btn-read-more">Read More</a>
+                                            <a href="#" class="cate-name"></a>
+                                            <h3><a href="#"></a></h3>
+                                            <a href="#" class="btn btn-read-more">Read More</a>
                                         </div>
                                     </figcaption>
                                 </figure>
@@ -577,9 +577,9 @@ Instrumentation Works
                                     <img src="assets/img/project/project-h1-03.jpg" alt="Project"/>
                                     <figcaption class="project-item__info hvr-dir">
                                         <div class="info-wrap">
-                                            <a href="#" class="cate-name">Art</a>
-                                            <h3><a href="project-details.html">The Shard In London</a></h3>
-                                            <a href="project-details.html" class="btn btn-read-more">Read More</a>
+                                            <a href="#" class="cate-name"></a>
+                                            <h3><a href="#"></a></h3>
+                                            <a href="#" class="btn btn-read-more">Read More</a>
                                         </div>
                                     </figcaption>
                                 </figure>
@@ -594,9 +594,9 @@ Instrumentation Works
                                     <img src="assets/img/project/project-h1-04.jpg" alt="Project"/>
                                     <figcaption class="project-item__info hvr-dir">
                                         <div class="info-wrap">
-                                            <a href="#" class="cate-name">Art</a>
-                                            <h3><a href="project-details.html">The Shard In London</a></h3>
-                                            <a href="project-details.html" class="btn btn-read-more">Read More</a>
+                                            <a href="#" class="cate-name"></a>
+                                            <h3><a href="#"></a></h3>
+                                            <a href="#" class="btn btn-read-more">Read More</a>
                                         </div>
                                     </figcaption>
                                 </figure>
@@ -611,9 +611,9 @@ Instrumentation Works
                                     <img src="assets/img/project/project-h1-05.jpg" alt="Project"/>
                                     <figcaption class="project-item__info hvr-dir">
                                         <div class="info-wrap">
-                                            <a href="#" class="cate-name">Art</a>
-                                            <h3><a href="project-details.html">The Shard In London</a></h3>
-                                            <a href="project-details.html" class="btn btn-read-more">Read More</a>
+                                            <a href="#" class="cate-name"></a>
+                                            <h3><a href="#"></a></h3>
+                                            <a href="#" class="btn btn-read-more">Read More</a>
                                         </div>
                                     </figcaption>
                                 </figure>

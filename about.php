@@ -37,7 +37,7 @@
                             <div class="sidebar-body">
                                 <ul class="service-list">
                                     <li><a href="service-details.html"><img
-                                            src="assets/img/service/icon/service-icon-1.png" alt="Service Icon">Construction</a>
+                                            src="assets/img/service/icon/service-icon-1.png" alt="Service Icon">Electrical Substation</a>
                                     </li>
                                     <li><a href="service-details.html"><img
                                             src="assets/img/service/icon/service-icon-2.png" alt="Service Icon">House
@@ -61,42 +61,21 @@
 
                         <!-- Start Sidebar Item -->
                         <div class="sidebar-single">
-                            <h3 class="sidebar-heading">Download Brochure</h3>
+                            <h3 class="sidebar-heading">Download Document</h3>
                             <div class="sidebar-body">
                                 <ul class="service-list">
-                                    <li><a href="#"><i class="fa fa-file-pdf-o"></i>Brochures.PDF</a></li>
-                                    <li><a href="#"><i class="fa fa-file-word-o"></i>Brochures.DOC</a></li>
+                                    <li><a href="#"><i class="fa fa-file-pdf-o"></i>Company Profile.PDF</a></li>
+                                    <li><a href="#"><i class="fa fa-file-pdf-o"></i>Trade Licence.PDF</a></li>
                                 </ul>
                             </div>
                         </div>
                         <!-- End Sidebar Item -->
                     </div>
-                </div>
 
-                <div class="col-lg-8 order-0">
-                    <div class="about-us-page-content">
-                        <div class="about-us-info mb-46">
-                            <figure class="about-us-thumb mb-30 mb-sm-26">
-                                <img src="assets/img/extra/builder.jpg" alt="Builder"/>
-                            </figure>
-                            <div class="about-us-txt">
-                                <h2 class="h3">Our Company</h2>
-
-                                <p>Bechtel is one of the most respected global engineering, construction, and project
-                                    management companies. Together with our customers, we deliver landmark projects that
-                                    create long-term progress and economic growth. Since 1898, we’ve completed more than
-                                    25,000 extraordinary projects across 160 countries on all seven continents.</p>
-
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias animi assumenda
-                                    dolore dolores doloribus eligendi enim esse expedita explicabo hic molestias
-                                    nesciunt nobis officiis perspiciatis quasi, repellat repudiandae sed ullam vero
-                                    voluptates. Aliquam at id quo? Atque incidunt repellat rerum.</p>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="testimonial-area mb-sm-30">
+                    <div class="sidebar-single">
+                            <h3 class="sidebar-heading">What customer say about us</h3>
+                            <div class="sidebar-body">
+                            <div class="testimonial-area mb-sm-30">
                                     <div class="ht-slick-slider"
                                          data-slick='{"slidesToShow": 1, "autoplay": true, "arrows": false}'>
                                         <!-- Start Single Testimonial Item -->
@@ -158,8 +137,39 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
 
-                            <div class="col-md-6">
+
+                  
+
+                </div>
+
+                <div class="col-lg-8 order-0">
+                    <div class="about-us-page-content">
+                        <div class="about-us-info mb-46">
+                            <figure class="about-us-thumb mb-30 mb-sm-26">
+                                <img src="assets/img/about.jpg" alt="Builder"/>
+                            </figure>
+                            <div class="about-us-txt">
+                                <h2 class="h3">Energy Link Power Ltd - A Trusted Power Zone</h2>
+
+                                <p>
+This is an open-source platform where you can share your learned experience with others who have actual demand in the present markets. Your earned skill will help people who are searching for a way to overcome all kinds of problems related to your expertise & knowledge. Also, you can find your requirements and questions solutions through this open-source platform. 
+
+<br> Your every demand has a suitable solution, need only to share with the experts to gain knowledge and apply it. At the day end, you can earn money by providing solutions, goods, and services in a legal way on your idle time as an open-source experts.</p>
+                            </div>
+
+                            <figure class="about-us-thumb mb-30 mb-sm-26">
+                                <img src="assets/img/project/p3.jpg" alt="Builder"/>
+                            </figure>
+
+                        </div>
+
+                        <div class="row">
+
+                           
+
+                            <!-- <div class="col-md-6">
                                 <ul class="list-unordered">
                                     <li>Our commitment of sustainability</li>
                                     <li>Our commitment of stewardship</li>
@@ -167,11 +177,11 @@
                                     <li>Our commitment of quality</li>
                                     <li>Our commitment of safety</li>
                                 </ul>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
 
-                    <div class="discover-us-more mt-42 mb-sm-20 mb-md-20">
+                    <div class="discover-us-more mt-42 mb-sm-20 mb-md-20 d-none">
                         <div class="section-title-wrap mb-32">
                             <h2>Discover More</h2>
                         </div>

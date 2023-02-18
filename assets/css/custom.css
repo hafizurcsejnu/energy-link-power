@@ -1,0 +1,17 @@
+.service-item__info p {
+    display: none;
+}
+
+.service-item--three .service-item__icon {
+    width: 50px;
+    float: left;   
+    display: inline;
+    color: #FA9A00;
+    font-size: 40px;
+    line-height: 1;
+    margin-bottom: 15px;    
+}
+.service-item__info {
+    float: left;
+    margin-top: 5px;
+}
