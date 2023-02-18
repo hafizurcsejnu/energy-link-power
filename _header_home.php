@@ -27,6 +27,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
     <!--== Main Style CSS ==-->
     <link href="assets/css/style.css" rel="stylesheet"/>
+    <link href="assets/css/custom.css" rel="stylesheet"/>
 
     <!--[if lt IE 9]>
     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -98,16 +99,7 @@
                                     <li><a href="pproject-details.php">Project Title</a></li>
                                 </ul>
                             </li>
-                            <li class="dropdown-navbar"><a href="services.php">Products</a>
-                                <ul class="dropdown-nav">
-                                    <li><a href="product-details.php">Product Title</a></li>
-                                    <li><a href="product-details.php">Product Title</a></li>
-                                    <li><a href="product-details.php">Product Title</a></li>
-                                    <li><a href="product-details.php">Product Title</a></li>
-                                    <li><a href="product-details.php">Product Title</a></li>
-                                    
-                                </ul>
-                            </li>
+                         
                             <li class=""><a href="contact.php">Clients</a>
                             <li class=""><a href="contact.php">Contact</a>
                             </li>

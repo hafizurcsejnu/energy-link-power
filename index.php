@@ -317,7 +317,7 @@
                     </div>
 
                     <div class="service-item__info">
-                        <h2><a href="service-details.html">Electrical Substation</a></h2>
+                        <h2><a href="#">Electrical Substation</a></h2>
                         <p>Duis quis dolor fermentum, consequat magna sit amet, dignissim odio. Pellentesque gravida
                             libero id lacus vestibulum commodo.</p>
                     </div>
@@ -333,7 +333,7 @@
                     </div>
 
                     <div class="service-item__info">
-                        <h2><a href="service-details.html">Air Condition Solutionn</a></h2>
+                        <h2><a href="#">Air Condition Solutionn</a></h2>
                         <p>Duis quis dolor fermentum, consequat magna sit amet, dignissim odio. Pellentesque gravida
                             libero id lacus vestibulum commodo.</p>
                     </div>
@@ -354,7 +354,7 @@
                     </div>
 
                     <div class="service-item__info">
-                        <h2><a href="service-details.html">Mechanical & Civil Work Solutio</a></h2>
+                        <h2><a href="#">Mechanical & Civil Work Solutio</a></h2>
                         <p>Duis quis dolor fermentum, consequat magna sit amet, dignissim odio. Pellentesque gravida
                             libero id lacus vestibulum commodo.</p>
                     </div>
@@ -370,7 +370,7 @@
                     </div>
 
                     <div class="service-item__info">
-                        <h2><a href="service-details.html">Repair And Servicing</a></h2>
+                        <h2><a href="#">Repair And Servicing</a></h2>
                         <p>Duis quis dolor fermentum, consequat magna sit amet, dignissim odio. Pellentesque gravida
                             libero id lacus vestibulum commodo.</p>
                     </div>
@@ -386,7 +386,7 @@
                     </div>
 
                     <div class="service-item__info">
-                        <h2><a href="service-details.html">Fire Proof Goods Solution</a></h2>
+                        <h2><a href="#">Fire Proof Goods Solution</a></h2>
                         <p>Duis quis dolor fermentum, consequat magna sit amet, dignissim odio. Pellentesque gravida
                             libero id lacus vestibulum commodo.</p>
                     </div>
@@ -425,7 +425,7 @@ Instrumentation Works
                     </div>
 
                     <div class="service-item__info">
-                        <h2><a href="service-details.html">It Solution</a></h2>
+                        <h2><a href="#">IT Solution</a></h2>
                         <p>Duis quis dolor fermentum, consequat magna sit amet, dignissim odio. Pellentesque gravida
                             libero id lacus vestibulum commodo.</p>
                     </div>
@@ -439,7 +439,7 @@ Instrumentation Works
                     </div>
 
                     <div class="service-item__info">
-                        <h2><a href="service-details.html">House Wiring</a></h2>
+                        <h2><a href="#">House Wiring</a></h2>
                         <p>Duis quis dolor fermentum, consequat magna sit amet, dignissim odio. Pellentesque gravida
                             libero id lacus vestibulum commodo.</p>
                     </div>
@@ -453,7 +453,7 @@ Instrumentation Works
                     </div>
 
                     <div class="service-item__info">
-                        <h2><a href="service-details.html">Expert Manpower Sharing</a></h2>
+                        <h2><a href="#">Expert Manpower Sharing</a></h2>
                         <p>Duis quis dolor fermentum, consequat magna sit amet, dignissim odio. Pellentesque gravida
                             libero id lacus vestibulum commodo.</p>
                     </div>
@@ -473,7 +473,7 @@ Instrumentation Works
                     </div>
 
                     <div class="service-item__info">
-                        <h2><a href="service-details.html">Instrumentation Works</a></h2>
+                        <h2><a href="#">Instrumentation Works</a></h2>
                         <p>Duis quis dolor fermentum, consequat magna sit amet, dignissim odio. Pellentesque gravida
                             libero id lacus vestibulum commodo.</p>
                     </div>
@@ -543,9 +543,9 @@ Instrumentation Works
                                     <img src="assets/img/project/project-h1-01.jpg" alt="Project"/>
                                     <figcaption class="project-item__info hvr-dir">
                                         <div class="info-wrap">
-                                            <a href="#" class="cate-name">Art</a>
-                                            <h3><a href="project-details.html">The Shard In London</a></h3>
-                                            <a href="project-details.html" class="btn btn-read-more">Read More</a>
+                                            <a href="#" class="cate-name"></a>
+                                            <h3><a href="#"></a></h3>
+                                            <a href="" class="btn btn-read-more">Read More</a>
                                         </div>
                                     </figcaption>
                                 </figure>
@@ -560,9 +560,9 @@ Instrumentation Works
                                     <img src="assets/img/project/project-ft-11.jpg" alt="Project"/>
                                     <figcaption class="project-item__info hvr-dir">
                                         <div class="info-wrap">
-                                            <a href="#" class="cate-name">Art</a>
-                                            <h3><a href="project-details.html">The Shard In London</a></h3>
-                                            <a href="project-details.html" class="btn btn-read-more">Read More</a>
+                                            <a href="#" class="cate-name"></a>
+                                            <h3><a href="#"></a></h3>
+                                            <a href="#" class="btn btn-read-more">Read More</a>
                                         </div>
                                     </figcaption>
                                 </figure>
@@ -577,9 +577,9 @@ Instrumentation Works
                                     <img src="assets/img/project/project-h1-03.jpg" alt="Project"/>
                                     <figcaption class="project-item__info hvr-dir">
                                         <div class="info-wrap">
-                                            <a href="#" class="cate-name">Art</a>
-                                            <h3><a href="project-details.html">The Shard In London</a></h3>
-                                            <a href="project-details.html" class="btn btn-read-more">Read More</a>
+                                            <a href="#" class="cate-name"></a>
+                                            <h3><a href="#"></a></h3>
+                                            <a href="#" class="btn btn-read-more">Read More</a>
                                         </div>
                                     </figcaption>
                                 </figure>
@@ -594,9 +594,9 @@ Instrumentation Works
                                     <img src="assets/img/project/project-h1-04.jpg" alt="Project"/>
                                     <figcaption class="project-item__info hvr-dir">
                                         <div class="info-wrap">
-                                            <a href="#" class="cate-name">Art</a>
-                                            <h3><a href="project-details.html">The Shard In London</a></h3>
-                                            <a href="project-details.html" class="btn btn-read-more">Read More</a>
+                                            <a href="#" class="cate-name"></a>
+                                            <h3><a href="#"></a></h3>
+                                            <a href="#" class="btn btn-read-more">Read More</a>
                                         </div>
                                     </figcaption>
                                 </figure>
@@ -611,9 +611,9 @@ Instrumentation Works
                                     <img src="assets/img/project/project-h1-05.jpg" alt="Project"/>
                                     <figcaption class="project-item__info hvr-dir">
                                         <div class="info-wrap">
-                                            <a href="#" class="cate-name">Art</a>
-                                            <h3><a href="project-details.html">The Shard In London</a></h3>
-                                            <a href="project-details.html" class="btn btn-read-more">Read More</a>
+                                            <a href="#" class="cate-name"></a>
+                                            <h3><a href="#"></a></h3>
+                                            <a href="#" class="btn btn-read-more">Read More</a>
                                         </div>
                                     </figcaption>
                                 </figure>

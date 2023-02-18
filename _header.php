@@ -28,6 +28,7 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet"/>
     <!--== Main Style CSS ==-->
     <link href="assets/css/style.css" rel="stylesheet"/>
+    <link href="assets/css/custom.css" rel="stylesheet"/>
 
     <!--[if lt IE 9]>
     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -45,7 +46,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-8 col-xl-6 offset-xl-2 d-none d-sm-block">
-                    <div class="pre-header-left d-sm-flex justify-content-center justify-content-lg-start">
+                    <div class="pre-header-left d-sm-flex justify-content-center justify-content-lg-start" style="margin-left:150px;">
                         <div class="pre-header-item">
                         <a href="tel:+8801712 340066"><i class="fa fa-phone"></i> +8801712 340066</a>
                         </div>
@@ -99,17 +100,7 @@
                                     <li><a href="project-details.php">Project Title</a></li>
                                     <li><a href="project-details.php">Project Title</a></li>
                                 </ul>
-                            </li>
-                            <li class="dropdown-navbar"><a href="services.php">Products</a>
-                                <ul class="dropdown-nav">
-                                    <li><a href="product-details.php">Product Title</a></li>
-                                    <li><a href="product-details.php">Product Title</a></li>
-                                    <li><a href="product-details.php">Product Title</a></li>
-                                    <li><a href="product-details.php">Product Title</a></li>
-                                    <li><a href="product-details.php">Product Title</a></li>
-                                    
-                                </ul>
-                            </li>
+                            </li>                          
                             <li class=""><a href="contact.php">Clients</a>
                             <li class=""><a href="contact.php">Contact</a>
                             </li>
