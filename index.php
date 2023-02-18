@@ -3,7 +3,7 @@
 <!-- Start Slider Area Wrapper -->
 <div class="slider-area-wrapper">
     <div id="rev_slider_5_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="slider-05"
-         data-source="gallery">
+         data-source="gallery"> 
         <div id="rev_slider_5_1" class="rev_slider fullwidthabanner" data-version="5.4.7">
             <ul>
                 <!-- SLIDE  -->
